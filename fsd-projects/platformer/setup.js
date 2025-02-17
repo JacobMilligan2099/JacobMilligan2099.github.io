@@ -12,7 +12,7 @@ let shouldDrawGrid = false;
 /////////////////////////////////////////////////
 
 // Base game variables
-const frameRate = 60;
+const frameRate = 50;
 const playerScale = 0.8; //makes the player just a bit smaller. Doesn't affect the hitbox, just the image
 
 // Player variables
